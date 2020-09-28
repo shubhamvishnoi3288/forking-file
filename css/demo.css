@@ -5,3 +5,8 @@ h2{
    color: pink;
    text-align: center;
 }
+#name,#dept{
+    width: 450px;
+    height: 200px;
+    background-color: rgb(122, 173, 173);
+}
