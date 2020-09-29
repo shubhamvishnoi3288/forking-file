@@ -10,3 +10,14 @@ h2{
     height: 200px;
     background-color: rgb(122, 173, 173);
 }
+#image{
+    width: 472px;
+    height: 415px;
+    margin-left: 495px;
+    margin-top: -414px;
+    border-style: inset;
+}
+img{
+   width: 470px;
+   height: 410px;
+}
